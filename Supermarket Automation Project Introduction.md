@@ -14,6 +14,8 @@ Mehmet Emin Durukan
 
 Kemal Yüksel 
 
+Yusuf Berk Uray
+
  
 
 Our Aim: Make an easy-to-use supermarket automation 
